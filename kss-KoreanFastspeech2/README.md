@@ -1,7 +1,5 @@
 # emotional-TTS - Pytorch Implementation
 
-![](./assets/model.png)
-
 이 프로젝트는 Microsoft의 [**FastSpeech 2(Y. Ren et. al., 2020)**](https://arxiv.org/abs/2006.04558)와 NCSOFT의 [**VocGAN()**](https://arxiv.org/), [**GST(Wang, Yuxuan, et al.)**](https://arxiv.org/abs/1803.09017)로 모델을 구성해 감정 TTS 모델을 구현하고 [**Korean Single Speech dataset (이하 KSS dataset)**](https://www.kaggle.com/bryanpark/korean-single-speaker-speech-dataset)에서 동작하도록 구현한 것.
 
 본 프로젝트에서는 아래와 같은 contribution을 제공합니다.

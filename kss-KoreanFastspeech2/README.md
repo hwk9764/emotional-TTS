@@ -6,7 +6,7 @@
 * kss dataset에 대해 동작하게 만든 소스코드
 * Montreal Forced Aligner로부터 추출한 kss dataset의 text-utterance duration 정보 (TextGrid)
 * kss dataset에 대해 학습한 FastSpeech2(Text-to-melspectrogram network) pretrained model
-* FastSpeech에 GST layer가 합쳐진 acoustic model
+* FastSpeech2에 GST layer가 합쳐진 acoustic model
 * kss dataset에 대해 학습한 [VocGAN](https://arxiv.org/pdf/2007.15256.pdf)(Neural vocoder)의 pretrained model
 
 # References

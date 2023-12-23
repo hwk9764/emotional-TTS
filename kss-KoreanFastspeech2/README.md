@@ -12,6 +12,6 @@
 # References
 - [FastSpeech 2: Fast and High-Quality End-to-End Text to Speech](https://arxiv.org/abs/2006.04558), Y. Ren, *et al*.
 - [FastSpeech: Fast, Robust and Controllable Text to Speech](https://arxiv.org/abs/1905.09263), Y. Ren, *et al*.
-- [Jackson Kang's Korean-FastSpeech2-Pytorch]([https://github.com/HGU-DLLAB/Korean-FastSpeech2-Pytorch])
-- [foamliu's GST-Tacotron-Korean]([https://github.com/foamliu/GST-Tacotron-Korean])
+- [Jackson Kang's Korean-FastSpeech2-Pytorch](https://github.com/HGU-DLLAB/Korean-FastSpeech2-Pytorch)
+- [foamliu's GST-Tacotron-Korean](https://github.com/foamliu/GST-Tacotron-Korean)
 - [rishikksh20's VocGAN implementation](https://github.com/rishikksh20/VocGAN)
